@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Searchcomp.png</file>
+        <file>Warning1.png</file>
+        <file>Warnings.png</file>
+        <file>Alienware Xenomorph Icon 26.ico</file>
+        <file>Edit file.png</file>
+        <file>user-home.ico</file>
+        <file>Alienware Invader Icon 08.ico</file>
+        <file>fotodeportada.jpg</file>
+        <file>142-1024.JPG</file>
+        <file>ad2006a4sedan20tfsi1315989.jpg</file>
+        <file>Cadillac-XLR-67-1024.jpg</file>
+        <file>car_tuning_02382.JPG</file>
+        <file>DSC01461.jpg</file>
+    </qresource>
+</RCC>
